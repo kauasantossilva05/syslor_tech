@@ -384,7 +384,7 @@ export default function SyslorTechSite() {
             <span className="font-bold text-slate-900">Syslor Tech</span>
           </div>
           <p className="text-slate-500 text-sm">
-            &copy; {new Date().getFullYear()} Syslor Tech. Todos os direitos reservados.
+            © {new Date().getFullYear()} Syslor Tech. Todos os direitos reservados.
           </p>
           <div className="flex items-center gap-4">
             <a href="https://github.com/kauasantossilva05" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-slate-50 border border-slate-200 flex items-center justify-center text-slate-700 hover:bg-slate-900 hover:text-white transition-all">
